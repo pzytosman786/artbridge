@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708223883829",
+    "project_id": "artbridge-b3fcf",
+    "storage_bucket": "artbridge-b3fcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708223883829:android:28a5b092c0830755b8ef7c",
+        "android_client_info": {
+          "package_name": "com.example.artbridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRR0QGHeOa6FE21q-kBf34y_9z6ZddUtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

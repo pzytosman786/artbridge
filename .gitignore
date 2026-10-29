@@ -1,0 +1,45 @@
+﻿# Flutter and Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+key.properties
+secrets/
+service-account*.json
+*-service-account*.json
+
+# Debug logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated platform files
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+
+# Archives and generated files
+*.zip
+.dart_tool/
+build/
+.flutter-plugins-dependencies
+.flutter-plugins
+
+# Local IDE and platform output
+.idea/
+.vscode/
